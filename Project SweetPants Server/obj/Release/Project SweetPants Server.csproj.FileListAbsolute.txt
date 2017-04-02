@@ -1,0 +1,19 @@
+c:\users\mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\Project SweetPants Server.exe.config
+c:\users\mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\Project SweetPants Server.exe
+c:\users\mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\Project SweetPants Server.pdb
+c:\users\mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\obj\Release\Project SweetPants Server.csprojResolveAssemblyReference.cache
+c:\users\mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\obj\Release\Project SweetPants Server.exe
+c:\users\mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\obj\Release\Project SweetPants Server.pdb
+C:\Users\Mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\PacketClassDLL.dll
+C:\Users\Mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\PacketClassDLL.pdb
+C:\Users\Mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\MySql.Data.dll
+C:\Users\Mircho\documents\visual studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\websocket-sharp.dll
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\Project SweetPants Server.exe.config
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\Project SweetPants Server.exe
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\Project SweetPants Server.pdb
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\MySql.Data.dll
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\websocket-sharp.dll
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\bin\Release\PacketClassDLL.pdb
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\obj\Release\Project SweetPants Server.csprojResolveAssemblyReference.cache
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\obj\Release\Project SweetPants Server.exe
+D:\documents baackup\Visual Studio 2013\Projects\Project SweetPants Server\Project SweetPants Server\obj\Release\Project SweetPants Server.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mircho\Documents\Visual Studio 2013\Projects\Project SweetPants Server\ServerData\bin\Release\ServerData.dll
+C:\Users\Mircho\Documents\Visual Studio 2013\Projects\Project SweetPants Server\ServerData\bin\Release\ServerData.pdb
+C:\Users\Mircho\Documents\Visual Studio 2013\Projects\Project SweetPants Server\ServerData\obj\Release\ServerData.csprojResolveAssemblyReference.cache
+C:\Users\Mircho\Documents\Visual Studio 2013\Projects\Project SweetPants Server\ServerData\obj\Release\ServerData.dll
+C:\Users\Mircho\Documents\Visual Studio 2013\Projects\Project SweetPants Server\ServerData\obj\Release\ServerData.pdb
